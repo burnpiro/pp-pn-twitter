@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wod-bike-dataset-generator/static/css/main.5f361e03.chunk.css",
+    "main.js": "/wod-bike-dataset-generator/static/js/main.7038d7fb.chunk.js",
+    "main.js.map": "/wod-bike-dataset-generator/static/js/main.7038d7fb.chunk.js.map",
+    "runtime-main.js": "/wod-bike-dataset-generator/static/js/runtime-main.ecbcacda.js",
+    "runtime-main.js.map": "/wod-bike-dataset-generator/static/js/runtime-main.ecbcacda.js.map",
+    "static/js/2.aecd777b.chunk.js": "/wod-bike-dataset-generator/static/js/2.aecd777b.chunk.js",
+    "static/js/2.aecd777b.chunk.js.map": "/wod-bike-dataset-generator/static/js/2.aecd777b.chunk.js.map",
+    "index.html": "/wod-bike-dataset-generator/index.html",
+    "precache-manifest.e502e393222563fc03681fb6d6168980.js": "/wod-bike-dataset-generator/precache-manifest.e502e393222563fc03681fb6d6168980.js",
+    "service-worker.js": "/wod-bike-dataset-generator/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/wod-bike-dataset-generator/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.aecd777b.chunk.js.LICENSE.txt": "/wod-bike-dataset-generator/static/js/2.aecd777b.chunk.js.LICENSE.txt",
+    "static/media/path-sample.png": "/wod-bike-dataset-generator/static/media/path-sample.cb327131.png",
+    "static/media/station-sample.png": "/wod-bike-dataset-generator/static/media/station-sample.cf2f4cd5.png",
+    "static/media/twitter.png": "/wod-bike-dataset-generator/static/media/twitter.1c32ff4c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecbcacda.js",
+    "static/js/2.aecd777b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7038d7fb.chunk.js"
+  ]
+}
